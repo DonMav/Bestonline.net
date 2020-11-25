@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=.;Initial Catalog=bestonlinedb;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
